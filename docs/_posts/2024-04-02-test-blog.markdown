@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "测试博客!"
+date:   2024-04-02 07:50:28 +0800
+categories: category1 category2
+---
+测试一下
+
+Check out the [测试一下1][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [测试一下12][jekyll-gh]. If you have questions, you can ask them on [测试一下3][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
